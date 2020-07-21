@@ -1,9 +1,9 @@
 :root {
-  --mainBlue: #2a2a72;
-  --lightBlue: #009ffd;
-  --mainWhite: #f3f3f3;
+  --mainBlue: black;
+  --lightBlue: #4ea5d8;
+  --mainWhite: #e7e4e4;
   --mainDark: #232528;
-  --mainYellow: #ffa400;
+  --mainYellow: #ca2c21;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 }
 
 .text-title {
-  font-family: "Berkshire Swash", cursive;
+  font-family: "Charm", cursive;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
@@ -44,4 +44,8 @@ body {
   cursor: pointer;
   font-size: 1.2rem;
   color: var(--mainYellow);
+}
+
+pre {
+  display: none !important;
 }

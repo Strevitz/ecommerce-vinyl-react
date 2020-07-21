@@ -16,10 +16,10 @@ export default class Cart extends Component {
             if (cart.length > 0) {
               return (
                 <>
-                  <Title name="your" title="cart"></Title>
+                  <Title name="twój" title="koszyk"></Title>
                   <CartColumns />
                   <CartList value={value} />
-                  <CartTotals value={value} />
+                  <CartTotals value={value} history={this.props.history} />
                 </>
               );
             } else {

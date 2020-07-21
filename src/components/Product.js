@@ -29,7 +29,7 @@ export default class Product extends Component {
                 >
                   {inCart ? (
                     <p className="text-capitalize mb-0" disabled>
-                      in cart
+                      w koszyku
                     </p>
                   ) : (
                     <i className="fas fa-cart-plus"></i>
@@ -109,7 +109,8 @@ const ProductWrapper = styled.div`
     transform: translate(0, 0);
   }
   .cart-btn:hover {
-    color: var(--mainBlue);
+    background: var(--mainWhite);
+    color: var(--lightBlue);
     cursor: pointer;
   }
 `;
