@@ -17,6 +17,16 @@ export default class Navbar extends Component {
               Produkty
             </Link>
           </li>
+          <li className="nav-item ml-5">
+            <Link to="/about" className="nav-link">
+              Nasz sklep
+            </Link>
+          </li>
+          <li className="nav-item ml-5">
+            <Link to="/contact" className="nav-link">
+              Kontakt
+            </Link>
+          </li>
         </ul>
         <Link to="/cart" className="ml-auto">
           <ButtonContainer>
