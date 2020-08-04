@@ -2,7 +2,7 @@
 
 ### E-commerce vinyl shop responsive website with full functional basket and Paypal payments.
 
-![Logo](screenshot.png)
+![vinyl_presentation](https://user-images.githubusercontent.com/61030079/89345176-4c86b300-d6a7-11ea-979c-b1fcb8db82ca.png)
 
 ## General info
 
