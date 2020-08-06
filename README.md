@@ -23,6 +23,8 @@ This frontend application works together with this
 - React
 - Context API
 - Sassy CSS
+- Styled Components
+- Jest
 
 ## Setup
 
