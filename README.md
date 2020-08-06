@@ -13,14 +13,15 @@ This frontend application works together with this
 
 ## Tech info
 
-- The Vinyl shop website was written in **React**. I used **SCSS** and split the code into
-  modules.
-- In a project, I wanted to learn content flow and .
+- The Vinyl shop website was written in **React**. I used **Context API** for better data flow in application.
+- In a project, I wanted to learn content flow and build simple e-commerce website with modal shopping details, product detai;s and full functional basket..
 
 ## Technologies
 
 - Javascript
 - React
+- React Router
+- PayPal Plugin
 - Context API
 - Sassy CSS
 - Styled Components
